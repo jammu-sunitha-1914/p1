@@ -1,0 +1,14 @@
+/* ProductPage.css */
+
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+input {
+    font-size: 1.2em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
